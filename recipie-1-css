@@ -41,23 +41,9 @@ a{
     
 }
 
-footer{
-    width: 100%;
-}
 
-.footerBox{
-    background-color: #000000;
-    background-image: linear-gradient(160deg, #000000 0%, #8085d0 100%);
-    
-    width: 100%;
-    text-align: center;
-    min-height: 40px;
-}
 
-.footerBox p {
-    color: azure;
-    font-size: 2rem;
-}
+
 
 .contentBox{
     width: 50%;
